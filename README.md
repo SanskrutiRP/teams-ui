@@ -1,2 +1,2 @@
 # teams-ui
-Microsoft teams UI project
+I am vaishnavi, Trainee, software development.
