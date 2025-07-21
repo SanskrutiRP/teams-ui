@@ -1,2 +1,3 @@
 # teams-ui
-Microsoft teams UI project
+
+I am Joseph. I am a trainee at McLaren Strategic Solutions. I enjoy reading novels.
