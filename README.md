@@ -1,2 +1,3 @@
 # teams-ui
-Microsoft teams UI project
+
+I am Simran Nadkarni, a Trainee at MSS.
